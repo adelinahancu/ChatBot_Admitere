@@ -1,0 +1,118 @@
+[
+    {
+        "question": "1Pot să mă înscriu la mai multe facultăți?",
+        "answer": "Da. Există posibilitatea să te înscrii la mai multe facultăți completând aplicația de înscriere online pentru facultățile vizate, urmând pașii obligatorii și încărcând documentele scanate solicitate. Este important să verifici dacă la facultățile vizate sunt prevăzute probe eliminatorii și să urmezi pașii pentru a le susține, dacă este cazul. Pentru a fi sigur că ai completat aplicația corect, urmărește tutorialul deAICI."
+    },
+    {
+        "question": "2Este posibil să îmi depună altcineva dosarul de concurs?",
+        "answer": "Înscrierile sunt exclusiv online (candidații admiși vor prezenta documentele în original conformcontractului privind procedura de înscriereși vor încărca în aplicație contractul de școlarizare semnat și scanat)."
+    },
+    {
+        "question": "3Trebuie să fac mai multe înscrieri dacă doresc să concurez la mai multe programe de studii de licență ale aceleiaşi facultăți?",
+        "answer": "Depinde de facultate. La unele facultăți o înscriere se face pentru grupuri de opțiuni reprezentând programele de studii, iar la altele o înscriere se face pentru un singur program de studii. Pentru a fi sigur că ai completat aplicația corect, urmărește tutorialul deAICI."
+    },
+    {
+        "question": "4Dacă mă înscriu la mai multe facultăți pot să folosesc acelaşi email ca user pentru aplicația de înscriere?",
+        "answer": "Da. Înscrierea la mai multe facultăți se face din același cont deschis pe o adresă de email.  După completarea datelor personale și încarcarea documentelor se pot genera oricâte înscrieri din același cont."
+    },
+    {
+        "question": "5Care a fost prima și ultima medie la admitere anul trecut pentru fiecare facultate a Universității Transilvania din Brașov?",
+        "answer": "Pentru a vedea mediile cu care s-a intrat anul trecut accesează butonul „Rezultate” din meniul principal, sauclick AICI."
+    },
+    {
+        "question": "6Unde achit taxa de înscriere?",
+        "answer": "Taxa de înscriere se achită:- online, prin intermediul aplicației de înscriere;- prin ordin de plată sau transfer bancar sau mandat poștal, din orice bancă, în contul Universității Transilvania din Brașov, fiind obligatorie completarea următoarelor date de identificare:Beneficiar: Universitatea Transilvania din BrașovCod fiscal: 4317754Cod IBAN: RO08TREZ13120F330500XXXXCod SWIFT: BIC/SWIFT TREZROBU (acest cod este obligatoriu în cazul achitării taxelor din străinătate)Banca : TREZORERIA MUNICIPIULUI BRAŞOVÎn câmpul privind Detaliile transferului / plății este obligatoriu să menționați informațiile de mai jos:Tipul taxei: taxă admitereNumele și prenumele candidatului pentru care se face plata (exact ca în fișa de înscriere)Inițiala tatăluiFacultatea aleasă pentru înscriereProgramul de studiiForma de învățământ (IF, ID, FR)Recomandăm folosirea conturilor deschise la băncile românești."
+    },
+    {
+        "question": "7Am fost admis, ce trebuie să fac pentru confirmarea locului?",
+        "answer": "În cazul în care ai fost admis peLOCURI FINANȚATE DE LA BUGETUL DE STATtrebuie să confirmi locul prin depunerea actelor de studii în original conform informațiilor prevăzute în contractul de înscriere.În cazul în care ai fost admis peLOCURI CU TAXĂtrebuie să confirmi locul ocupat prin achitarea primei tranșe a taxei de școlarizare. Aceasta poate fi plătităonline (cu cardul), din platforma de admitere, variantă pe care ți-o recomandăm. Dacă nu dispui de card, poți face plata cu ordin de plată sau mandat poștal în contul de Trezorerie, caz în care trebuie să încarci OBLIGATORIU pe platforma de admitere dovada de plată, în perioada de confirmare, conform datelor prevăzute în contractul de înscriere.Informații detaliate despre modalitățile de plată și condițiile care trebuie respectate se regăsesc la secțiunea TAXE, de pe pagina facultății tale"
+    },
+    {
+        "question": "8Când trebuie achitată prima tranşă de şcolarizare în cazul în care intru pe locurile cu taxă?",
+        "answer": "În cazul în care ai fost admis pe locuri cu taxă trebuie să  achiți prima tranșă a taxei de școlarizare conform datelor prevăzute în contractul de înscriere, în vederea confirmării locului.Candidații care plătesc prin OP (ordin de plată) trebuie să încarce până la data stabilită (conform contractului de inscriere) OP-ul semnat, pe care se completează olograf numele și prenumele candidatului, numărul legitimației de concurs și numele facultății). În cazul nerespectării acestei condiții, CANDIDATUL va fi declarat RESPINS."
+    },
+    {
+        "question": "9Pot plăti taxa de şcolarizare prin transfer bancar?",
+        "answer": "Prima tranșă din taxa de școlarizare, pentru confirmarea ocupării locului cu taxă se poate achita:- online, prin intermediul aplicației de înscriere;- prin ordin de plată sau transfer bancar sau mandat poștal, din orice bancă, în contul Universității Transilvania din Brașov, fiind obligatorie completarea următoarelor date de identificare:Beneficiar: Universitatea Transilvania din BrașovCod fiscal: 4317754Cod IBAN: RO08TREZ13120F330500XXXXCod SWIFT: BIC/SWIFT TREZROBU (acest cod este obligatoriu în cazul achitării taxelor din străinătate)Banca : TREZORERIA MUNICIPIULUI BRAŞOVÎn câmpul privind Detaliile transferului / plății este obligatoriu să menționați informațiile de mai jos:Tipul taxei: taxă școlarizareNumele și prenumele candidatului pentru care se face plata (exact ca în fișa de înscriere)Inițiala tatăluiFacultatea unde a fost admisProgramul de studiiForma de învățământ (IF, ID, FR)Recomandăm folosirea conturilor deschise la băncile românești.Atenționare:CANDIDATUL admis pe loc cu taxă, indiferent  de fază, se obligă să achite prima tranșă a taxei de școlarizare şi să confirme locul ocupat prin încărcarea pe platforma de admitere a dovezii de plată a primei tranșe a taxei de școlarizare. (Această obligația este specificată în contractul de înscriere)."
+    },
+    {
+        "question": "10Dacă mă decid să îmi retrag dosarul de la facultate, poate face altcineva lucrul acesta?",
+        "answer": "Retragerea dosarului se va face în cazul în care acesta a fost depus fizic pentru confirmarea locului bugetat. Retragerea dosarului se poate face de către o altă persoană numai dacă aceasta prezintă o procură autentificată notarial."
+    },
+    {
+        "question": "11De unde procur adeverința medicală şi ce trebuie să fie menționat pe aceasta?",
+        "answer": "Adeverință medicală tip, eliberată de medicul de familie sau de către medicul școlar cu cel mult 60 de zile înainte de data înscrierii, din care să rezulte că posesorul este apt, din punct de vedere medical, pentru studii - scan după original. Candidații cu afecțiuni cronice vor prezenta adeverințe medicale vizate de comisiile medicale județene de orientare școlară și profesională, cu precizarea expresă a afecțiunilor, conform prevederilor specifice din domeniul medical. Nedeclararea acestor afecțiuni atrage după sine cuvenitele consecințe."
+    },
+    {
+        "question": "12Dacă am fost admis la două facultăți pot să le urmez în paralel pe ambele?",
+        "answer": "Da. Poți urma două programe de studii în paralel, dar poți beneficia de finanțare de la bugetul de stat doar la unul dintre programe dacă nu ai mai beneficiat până în prezent de un loc bugetat."
+    },
+    {
+        "question": "13Dacă intru la taxă cum pot ocupa ulterior un loc bugetat?",
+        "answer": "Dacă te afli intr-o fază intermediară a admiterii, poți avea șansa ca la următoarea fază să urci în listă și să ajungi pe loc bugetat. Urmărește fazele admiterii !Dacă s-a finalizat admiterea, poți trece pe locuri finanțate de la bugetul de stat după procesul de reclasificare de la sfârşitul anului universitar, în funcție de media pe care o vei obține după primul an de studii."
+    },
+    {
+        "question": "14Dacă doresc loc în cămin, mai este necesară completarea unui formular suplimentar?",
+        "answer": "Pentru a putea fi luat în considerare la distribuirea locurilor din cămine, în perioada 1- 5 septembrie, candidații declarați admiși vor depune cererea de cazare în platforma de înscriere, prin apăsarea butonului „Cerere cazare”Atenție!Acest lucru nu îți garanteaza locul în cămin. Repartizarea locurilor se va face abia după încheierea admiterii, în ordinea mediilor și în limita locurilor disponibile."
+    },
+    {
+        "question": "15Dacă într-una dintre fazele de admitere am confirmat locul la care am fost admis în acel moment, pot să decid să renunț la fazele următoare şi să ramân admis la specializarea la care am confirmat locul, chiar dacă opțiunea mea inițiala a fost alta?",
+        "answer": "NICIUN CANDIDAT NU POATE FI BLOCAT LA O ANUMITĂ OPȚIUNE, ÎNTR-O ANUMITĂ FAZĂ A ADMITERII, CI VA URCA LA O OPȚIUNE SUPERIOARĂ DIN LISTA SA DE PREFERINȚE EXISTENTE ÎN FIŞA DE ÎNSCRIERE.ATENȚIE, ÎN URMA GENERĂRII NOILOR LISTE DIN CADRUL FAZELOR ADMITERII, UN CANDIDAT VA AVANSA ÎNTOTDEAUNA CĂTRE OPȚIUNILE PRIORITARE DIN FIŞA DE ÎNSCRIERE, DACĂ EXISTĂ LOCURI LA ACELE OPȚIUNI!!!Confirmarea locului înseamna acceptul de a urma la facultatea respectivă unul dintre programele de studii trecute de candidat în fişa de înscriere.Programul de studii la care candidatul a fost admis definitiv va fi cel din cadrul listelor finale."
+    },
+    {
+        "question": "16Care este importanța alegerii opțiunilor?",
+        "answer": "ÎN URMA GENERĂRII NOILOR LISTE DIN CADRUL FAZELOR ADMITERII, UN CANDIDAT VA AVANSA ÎNTOTDEAUNA CĂTRE OPȚIUNILE PRIORITARE DIN FIŞA DE ÎNSCRIERE, DACĂ EXISTĂ LOCURI LA ACELE OPȚIUNI! De aceea este important ca el să treacă în fişă de înscriere opţiunile în ordinea preferințelor."
+    },
+    {
+        "question": "17Ce înseamnă criteriul de admitere \"medie prioritară\" sau \"media bate opțiunea\" şi cum se face repartizarea candidaților conform acestui criteriu?",
+        "answer": "Se ordonează candidații descrescător, după media de admitere.Se parcurge lista de la primul şi până la ultimul, fiecare candidat fiind repartizat în momentul în care s-a ajuns la el. Dacă există loc liber la programul de studii de la prima opțiune a candidatului din fişa de înscriere, atunci el va fi repartizat la acesta. Dacă nu există loc liber, se verifică existența locurilor libere la cea de-a doua opțiune din fişă, apoi la cea de-a treia etc. Candidatul va fi astfel repartizat la primul program de studii la care sunt locuri libere (în ordinea preferințelor menționate în fişa de înscriere). Dacă nu există locuri libere la niciuna din opțiunile candidatului, acesta va rămâne în lista de aşteptare pentru fazele următoare ale sesiunii curente de admitere şi va fi repartizat în funcție de eliberarea viitoare a acestora.ATENȚIE!Nu uita ca, pentru ”medie prioritară”, punctul 1 va fi intotdeauna parcurs primul și abia ulterior  va fi parcurs și punctul 2, indiferent de opțiunile tale."
+    },
+    {
+        "question": "18Ce înseamnă criteriul de admitere \"opțiune prioritară\" sau \"opțiunea bate media\" şi cum se face repartizarea candidaților conform acestui criteriu?",
+        "answer": "Se ordonează candidații descrescător, după media de admitere.Se parcurge lista de la primul şi până la ultimul, realizându-se repartizarea după PRIMA opțiune. Dacă există loc liber la programul de studii de la prima opțiune a candidatului din fişa de înscriere, atunci el va fi repartizat la acesta. Dacă nu există loc liber, el nu va fi repartizat, ci se va trece la următorul candidat.Se parcurge lista de la primul şi până la ultimul, realizându-se repartizarea după A DOUA opțiune a candidaților rămași nerepartizați la punctul 2. Dacă există loc liber la programul de studii de la a doua opțiune a candidatului din fişa de înscriere, atunci el va fi repartizat la acesta. Dacă nu există loc liber, el nu va fi repartizat, ci se va trece la următorul candidat.Se continuă repartizarea după modelul de la punctul 2, pentru fiecare dintre opțiunile rămase (a treia, a patra etc.)ATENȚIE!Nu uita ca, în cazul ”opțiunii prioritare”, să ai grijă cum iți ierarhizezi opțiunile. Ordinea contează !"
+    },
+    {
+        "question": "19Ce înseamnă generarea listelor din fazele II și finală de admitere şi redistribuirea candidaților?",
+        "answer": "În urma eliberării unor locuri (prin retragerea unor candidați sau prin eliminarea acestora din listele candidaților admiși datorită neconfirmării locurilor sau neplății tranșei taxei de școlarizare la termenele din contract), se vor genera noi liste. Astfel un candidat aflat în lista de așteptare poate fi admis pe un loc cu taxă sau fără taxă. Un candidat admis inițial pe locuri cu taxă poate fi admis ulterior pe locuri fără taxă în urma redistribuirilor din cadrul fazelor.ATENȚIE, ÎN URMA GENERĂRII NOILOR LISTE DIN CADRUL FAZELOR ADMITERII, UN CANDIDAT VA AVANSA ÎNTOTDEAUNA CĂTRE OPȚIUNILE PRIORITARE DIN FIŞA DE ÎNSCRIERE, DACĂ EXISTĂ LOCURI LA ACELE OPȚIUNI!!! NICIUN CANDIDAT NU POATE FI BLOCAT LA O ANUMITĂ OPȚIUNE, CI VA URCA LA O OPȚIUNE SUPERIOARA DIN LISTA SA DE PREFERINȚE EXISTENTE ÎN FIŞA DE ÎNSCRIERE.Candidatul care a trecut pe locurile fără taxă are obligația, la confirmarea locului să prezinte documentele solicitate. Vezi care sunt acestea accesând butonul „Confirmarea locului” de pe pagina facultății tale."
+    },
+    {
+        "question": "20Pot urma modulul psiho-pedagogic în timpul ciclului de licență?",
+        "answer": "Da. Dacă dorești să urmezi programul de formare psihopedagogică al Departamentului de Pregătire a Personalului Didactic în timpul facultății trebuie să bifezi opțiunea corespunzatoare din aplicația de înscriere. În urma absolvirii acestui program vei obține certificatul nivelul I, care îți permite exercitarea profesiei didactice. Taxa D.P.P.D. (pentru studenții cu taxă) este suplimentară față de cea de la programul de licență."
+    },
+    {
+        "question": "21Există posibilitatea ca în timpul concursului de admitere să beneficiez de cazare în campusul universitar?",
+        "answer": "Pentru concursul de admitere 2025, Universitatea Transilvania din Brașovoferă cazare candidaților care susțin probe.Candidații la concursul de admiterea la Universitatea Transilvania din Braşovcare susțin probe de concurs la facultățile unde se susțin probe pentru admitere, pot solicita cazare în Căminul nr. 8 din Complexul Memo, strada Memorandului, nr. 32 la tariful de100 lei/noapte/persoană +TVADocumentele necesare pentru cazarea candidaților sunt:Cartea de identitate (original și copie) și legitimația de concursCererile se trimit la adresa de email:camin8@unitbv.ro, cu cel puțin 48 de ore înaintea examenului.În cererea pentru cazare se precizează perioada de cazare și un număr de telefon. Documentele candidaților (cartea de identitate și legitimația de concurs) se prezintă la cazare. Cererea este disponibilăAICI."
+    },
+    {
+        "question": "22Se acordă scutiri pentru taxa de înscriere?",
+        "answer": "Da. Pot fi scutiți de taxa de înscriere candidații care pot prezenta în plus unul din următoarele acte, după caz:- Certificat de deces părinte/părinți (copie scanată), pentru candidații orfani, cu vârsta sub 26 ani.- Dovada apartenenței la o familie monoparentală. Documente necesare: certificatul de divorț/sentința de divorț a părinților, după caz certificatul de deces/sentința de declarare judecătorească a morții unui părinte, împreună cu o declarație notarială a părintelui în grija căruia se află prin care se asumă (de către părinte) faptul că este persoană singură care locuiește și gospodărește doar cu copilul.- Adeverință privind proveniența din sistemul de protecție socială, pentru cei aflați în această situație (copie scanată).- Adeverință din care să rezulte că unul dintre părinți este angajat al UNITBV sau cadru didactic/cadru didactic auxiliar în sistemul de învățământ din România, aflat în activitate sau pensionat; acești candidați beneficiază și de gratuitate la cazare în cămine pe perioada admiterii (copie scanată).- Adeverință din care să rezulte apartenența la categoria „persoană în situație de risc” cu menționare expresă a riscului/vulnerabilității identificate conform Legii nr.292/2011.- Adeverință din care să rezulte că este angajat al UNITBV."
+    },
+    {
+        "question": "23Documentele pentru confirmarea unui loc bugetat pot fi depuse de altă persoană decât candidatul?",
+        "answer": "Da, aceste documente pot fi depuse de altă persoană numai dacă aceasta prezintă o declarație simplă a candidatului, pe proprie răspundere, conform modelului de mai jos. Declarația trebuie întocmită olograf și semnată olograf, din motive de autenticitate și eventuală confruntare a documentului în sensul asumării de către titularul actului de studii. Nu se admit declarații tehnoredactate și doar semnate olograf.Subsemnatul (nume, prenume), identificat cu CNP ........................ cunoscând și asumându-mi consecințele falsului în declarații, confirm și împuternicesc în acest sens că numitul (numele și prenumele persoanei care va depune actele in original) identificat cu CNP....................... și carte de identitate/buletin serie.........., număr ............., va depune în numele meu și pentru mine diploma de ............................. (bacalaureat/licență) seria ....... nr. .................. în original și suplimentul, după caz, la Facultatea ............................................ în scopul confirmării astfel a locului în regim bugetat ocupat de subsemnatul în procedura de admitere, faza ...... (I, II, Finală)Data și semnătura"
+    },
+    {
+        "question": "24Ce trebuie să fac cu contractul de studii primit pe email?",
+        "answer": "După verificarea de către comisia de admitere pe facultate a documentelor aferente confirmării locului, vei primi în perioada imediat următoare, pe adresa de email, un fișier cuContractul de studii, iar în contul tău din platforma de înscriere va apărea butonulÎNCARCĂ CONTRACT STUDII SEMNAT. Contractul primit pe email va fi listat, citit, semnat și scanat, apoi încărcat în platformă. Deși nu ai un termen impus, îți recomandăm să încarci acest contract în platformă de îndată ce l-ai primit. Varianta tipărită și semnată o vei aduce obligatoriu la universitate, cel mai târziu în prima săptămână a anului universitar (conf. art.8 din contractul de înscriere).Pentru confirmarea locului nu este necesară încărcarea pe platformă, în perioada de confirmare, a contractului de studii semnat."
+    },
+    {
+        "question": "25În cazul în care am fost admis pe un loc cu taxă şi într-o altă fază de admitere trec pe un loc bugetat, cum îmi pot recupera taxa?",
+        "answer": "Dacăai promovatde pe un loccu taxăpe un loc finanțat de labugetul de statși dacă ai depus deja la facultatecontractul de studii universitare semnatpentru programul unde ai ocupat locul bugetat ai dreptul la restituirea primei tranșe din taxa de școlarizare achitată, în valoare de 1000 lei. Aceasta îți va fi restituită numaidupă data de 1 octombrie (data înmatriculării).Cum procedezi?Descarcă cerereade restituiredeAICIșitrimite-o de pe adresa de email a contului din platforma de admitere,pe adresa comisiei de admitere a facultății(veziAICIadresele de email ale comisiilor de admitere pe facultăți).Nu uita să atașezi:Copie dupăordinul de plată(OP) saumandatul poștal, numai dacă ai achitat taxa cu OP sau mandat poștalîn contul de Trezorerie. Dacă ai făcut plata online, cu cardul, prin platforma de admitere, nu este necesar să încarci nicio dovadă.Copie dupăcartea de identitatea plătitorului taxei;Copie dupăextrasul de contal plătitorului taxei.Trimite cerereaînainte de data de 17 noiembrie 2025!Cererile trimise după această dată nu mai sunt luate în considerare și taxele achitate nu se mai restituie."
+    },
+    {
+        "question": "26Cum procedez pentru a solicita transferul primei tranșe a taxei de școlarizare achitate, la o altă facultate unde doresc să confirm noul loc cu taxă la care am fost admis?",
+        "answer": "Dacă ai achitat prima tranșă din taxa de școlarizare la o facultate, dar dorești să renunți la acel loc și să confirmi un loc cu taxă la o altă facultate din Universitatea Transilvania din Brașov, poți solicita transferul taxei de la o facultate la alta.Cum procedezi?Descarcă cerereade restituiredeAICIișitrimite-o de pe adresa de email a contului din platforma de admitere,pe adresa comisiei de admitere a facultății de la care vrei să te retragi(veziAICIadresele de email ale comisiilor de admitere pe facultăți).Cererea va fi avizată de către decanul facultății, care confirmă retragerea din concursul de admitere de pe locul cu taxă precizat și transferul primei tranșe a taxei de școlarizare către noua facultate.Vei primi pe adresa ta de mail cererea scanată, avizată de decan șio vei încărca în platforma de admitere, în locul dovezii de plată a primei tranșe a taxei de școlarizare pentru noua facultate, în termenul prevăzut în contract pentru confirmarea locului cu taxă."
+    },
+    {
+        "question": "27E nevoie să plătesc mai multe taxe de înscriere, chiar dacă mă înscriu la aceeași facultate?",
+        "answer": "Da, la unele facultăți vei plăti mai multe taxe de înscriere dacă alegi mai multe grupuri de programe de studii. Pentru fiecare astfel de grup vei plăti câte o taxă distinctă. Aplicația nu îți va permite să alegi toate programele de studii de la facultate, într-o singură înscriere.Dacă dorești și alte programe de studii de la acea facultate, e nevoie să adaugi o nouă înscriere."
+    },
+    {
+        "question": "28De ce să optez și pentru un loc cu taxă la același program de studii dacă sunt interesat doar de un loc bugetat?",
+        "answer": "În cazul în care ajungi în prima fază pe un loc cu taxă, există șanse mari să urci la buget datorită retragerii în fazele următoare a candidaților care se află în fața ta pe listă. De aceea, dacă ai și opțiunea buget, și opțiunea taxă, poți urca la prima opțiune. Dacă treci mai întâi opțiunea cu taxă și apoi opțiunea buget vei fi în imposibilitatea de a ocupa un loc bugetat. De asemenea, dacă treci doar opțiunea buget, fără opțiunea cu taxă, și nu intri în prima fază pe un loc bugetat, vei rămâne pe lista de așteptare. Dacă nu vei urca de pe lista de așteptare la buget până la finalul sesiunii din iulie, vei fi declarat respins. Pentru a-ți maximiza șansele la un loc bugetat, opțiunile ar trebui să apară, de exemplu, în ordinea: autovehicule rutiere (buget), autovehicule rutiere (taxă)."
+    },
+    {
+        "question": "29Dacă am fost admis pe un loc cu taxă, înseamnă că voi rămâne toată facultatea la taxă?",
+        "answer": "Nu. Ierarhiile studenților se refac în fiecare an în funcție de notele opținute pe parcursul anului universitar, așa că ai șansa să urci din anul II la buget."
+    }
+]
