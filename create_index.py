@@ -6,7 +6,7 @@ from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 def create_database():
-    # Ștergem folderul vechi pentru a asigura o indexare curată
+    # Șterge folderul vechi pentru a asigura o indexare curată
     if os.path.exists("./db_admitere"):
         import shutil
         shutil.rmtree("./db_admitere")
@@ -14,7 +14,7 @@ def create_database():
 
     documents = [] 
 
-    # 1. Încărcare DATE FAQ (JSON)
+    # 1. Incarcarea datelor din FAQ de pe site-ul universitatii
     if os.path.exists("date_admitere.json"):
         with open("date_admitere.json", "r", encoding='utf-8') as f:
             data = json.load(f)
@@ -24,7 +24,7 @@ def create_database():
             documents.append(doc)
         print(f"Am încărcat {len(data)} întrebări din JSON.")
 
-    # 2. Încărcare DATE MEDII (Markdown curățat)
+    # 2. Incărcare datelor despre programele de studii si medii
     md_path = "source_docs/date_curate.md"
     if os.path.exists(md_path):
         with open(md_path, "r", encoding="utf-8") as f:

@@ -45,7 +45,7 @@ prompt = ChatPromptTemplate.from_messages([
 
 
 question_answer_chain = create_stuff_documents_chain(llm, prompt)
-rag_chain = create_retrieval_chain(vector_db.as_retriever(search_kwargs={"k": 7}),question_answer_chain)
+rag_chain = create_retrieval_chain(vector_db.as_retriever(search_kwargs={"k": 15}),question_answer_chain)
 
 
 
@@ -55,6 +55,14 @@ while True:
     user_input = input("Tu:")
     if user_input.lower() == 'exit':
         break
+
+    retriever = vector_db.as_retriever(search_kwargs={"k": 15})
+    docs_gasite = retriever.invoke(user_input)
+
+    print("\n--- DEBUG: CONTEXT EXTRAS DIN BAZA DE DATE ---")
+    for i, doc in enumerate(docs_gasite):
+        print(f"Fragment {i+1}:\n{doc.page_content}\n")
+    print("-----------------------------------------------\n")
 
     raspuns = rag_chain.invoke({"input":user_input})
     print(f"\nChatbot:{raspuns['answer']}\n")
