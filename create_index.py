@@ -20,7 +20,7 @@ def create_database():
             data = json.load(f)
         for item in data:
             complete_text = f"Întrebare: {item['question']}\nRăspuns: {item['answer']}"
-            doc = Document(page_content=complete_text, metadata={"sursa": "faq_data"})
+            doc = Document(page_content=complete_text, metadata={"sursa": "faq_data","tip_info": "administrativ"})
             documents.append(doc)
         print(f"Am încărcat {len(data)} întrebări din JSON.")
 
@@ -32,16 +32,26 @@ def create_database():
         
         # Splitter optimizat pentru tabele Markdown
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=500,
+            chunk_size=100,
             chunk_overlap=0,
             separators=["\n"]
         )
         
         md_chunks = text_splitter.split_text(md_content)
         for chunk in md_chunks:
-            doc = Document(page_content=chunk, metadata={"sursa": "tabel_medii"})
+            # Extragem facultatea din text pentru metadate (opțional dar util)
+            facultate_extracted = chunk.split("|")[0].replace("FACULTATE:", "").strip()
+            
+            doc = Document(
+                page_content=chunk, 
+                metadata={
+                    "sursa": "tabel_medii", 
+                    "tip_info": "note_admitere",
+                    "facultate": facultate_extracted
+                }
+            )
             documents.append(doc)
-        print(f"Am încărcat {len(md_chunks)} fragmente din fișierul Markdown.")
+        print(f"Am încărcat {len(md_chunks)} fragmente din Markdown.")
 
     if not documents:
         print("Eroare: Nu am găsit nicio sursă de date!")
@@ -49,7 +59,7 @@ def create_database():
 
     # 3. Generare Embeddings și Salvare
     print("Se descarcă modelul de embeddings...")
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-base-en-v1.5")
 
     print("Se creează baza de date în folderul 'db_admitere'...")
     vector_db = Chroma.from_documents(
